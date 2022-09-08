@@ -1,0 +1,42 @@
+@font-face {
+   font-family: 'Noto Sans JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///C:/Users/DABERECHI/Desktop/BrandOne%20WebSite/public_html/fonts/Noto Sans JP/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/DABERECHI/Desktop/BrandOne%20WebSite/public_html/fonts/Noto Sans JP/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/DABERECHI/Desktop/BrandOne%20WebSite/public_html/fonts/Noto Sans JP/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/DABERECHI/Desktop/BrandOne%20WebSite/public_html/fonts/Noto Sans JP/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans JP';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/DABERECHI/Desktop/BrandOne%20WebSite/public_html/fonts/Noto Sans JP/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans JP';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/DABERECHI/Desktop/BrandOne%20WebSite/public_html/fonts/Noto Sans JP/regular.ttf') format('truetype');
+}
